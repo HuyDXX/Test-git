@@ -9,3 +9,5 @@ Graylog 3.0 đi kèm với việc triển khai 1 Sidecar mới( Graylog Sidecar)
 ![Imgur](https://i.imgur.com/5WirnEg.png)
 
 Các cấu hình của log collector được quản lý tập trung thông qua giao diện web Graylog.
+
+Test
